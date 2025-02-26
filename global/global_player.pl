@@ -494,6 +494,7 @@ sub POPFlags {
 		"pop.flags.trell",
 	  	"pop.flags.valor",
 		"pop.flags.xanamech"
+  		"pop.flags.story"
 	);
 
  	return @flags;
